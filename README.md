@@ -1,0 +1,2 @@
+# ezAlgorithm
+Algorithm - High School
